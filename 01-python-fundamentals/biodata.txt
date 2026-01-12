@@ -1,0 +1,4 @@
+Nama          : Kamil
+Umur          : 30
+Profesi       : IT Infrastructure Engineer
+Minat         : Data Science
